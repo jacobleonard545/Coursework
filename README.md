@@ -14,8 +14,8 @@ Currently private, but here's a list of classes I've taken:
 | COSC361 | Operating Systems                     |
 | COSC365 | Programming Languages                 |
 | COSC366 | Introduction to Cybersecurity         |
-| COSC469 | Human Factors in Cybersecurity        |
 | COSC466 | Software Security                     |
+| COSC469 | Human Factors in Cybersecurity        |
 | COSC483 | Cryptography                          |
 
 
