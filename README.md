@@ -1,7 +1,7 @@
 # Coursework
 Projects/Labs/Assignments completed throughout my years while studying.
 
-Labs completed in 'classes' are private, but here's a list of courses I've taken:
+Labs completed in 'classes' are private, but here's a list of relevant courses I've taken:
 
 | Course  | Title                                 |
 |---------|---------------------------------------|
@@ -14,8 +14,9 @@ Labs completed in 'classes' are private, but here's a list of courses I've taken
 | COSC361 | Operating Systems                     |
 | COSC365 | Programming Languages                 |
 | COSC366 | Introduction to Cybersecurity         |
+| ECE462  | Cyber-Physical Systems Security       |
 | COSC466 | Software Security                     |
 | COSC469 | Human Factors in Cybersecurity        |
-| COSC483 | Cryptography                          |
+| COSC483 | Applied Cryptography                  |
 
 
