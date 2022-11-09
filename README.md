@@ -1,7 +1,7 @@
 # Coursework
 Projects/Labs/Assignments completed throughout my years while studying.
 
-Currently private, but here's a list of classes I've taken:
+Labs completed in 'classes' are private, but here's a list of courses I've taken:
 
 | Course  | Title                                 |
 |---------|---------------------------------------|
