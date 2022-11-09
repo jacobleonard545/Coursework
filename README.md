@@ -1,5 +1,5 @@
 # Coursework
-Projects/Labs/Assignments completed throughout my years while studying computer science at UTK. 
+Projects/Labs/Assignments completed throughout my years while studying.
 
 Currently private, but here's a list of classes I've taken:
 
