@@ -1,3 +1,9 @@
 [submodule "classes"]
 	path = classes
 	url = https://github.com/jacobleonard545/classes
+[submodule "smart-ledger"]
+	path = smart-ledger
+	url = https://github.com/CS401-Team-Project/Front-End
+[submodule "vulnerable-login-page"]
+	path = vulnerable-login-page
+	url = https://github.com/CS340-21/WebSecurity
