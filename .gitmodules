@@ -7,3 +7,6 @@
 [submodule "vulnerable-login-page"]
 	path = vulnerable-login-page
 	url = https://github.com/CS340-21/WebSecurity
+[submodule "digital-portfolio"]
+	path = digital-portfolio
+	url = https://github.com/jacobleonard545/Digital-Portfolio
