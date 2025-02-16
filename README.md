@@ -3,6 +3,8 @@ Projects/Labs/Assignments completed throughout my years while studying.
 
 Labs completed in 'classes' are private, but here's a list of relevant courses I've taken:
 
+## Undergraduate:
+
 | Course  | Title                                 |
 |---------|---------------------------------------|
 | COSC102 | Introduction to Programming Languages |
@@ -19,4 +21,9 @@ Labs completed in 'classes' are private, but here's a list of relevant courses I
 | COSC469 | Human Factors in Cybersecurity        |
 | COSC483 | Applied Cryptography                  |
 
+## Graduate:
 
+| Course  | Title                                 |
+|--------|----------------------------------------|
+| CS5278 | Principles of Software Enginering      |
+| CS5278 | Computer Networks                      |
