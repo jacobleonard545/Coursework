@@ -23,4 +23,4 @@
 | Course  | Title                                 |
 |--------|----------------------------------------|
 | CS5278 | Principles of Software Enginering      |
-| CS5278 | Computer Networks                      |
+| CS5383 | Computer Networks                      |
