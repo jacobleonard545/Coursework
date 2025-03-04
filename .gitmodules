@@ -1,5 +1,5 @@
 [submodule "classes"]
-	path = classes
+	path = UTK-Classes
 	url = https://github.com/jacobleonard545/classes
 [submodule "smart-ledger"]
 	path = smart-ledger
@@ -10,3 +10,6 @@
 [submodule "digital-portfolio"]
 	path = digital-portfolio
 	url = https://github.com/jacobleonard545/Digital-Portfolio
+[submodule "VU-classes"]
+	path = VU-classes
+	url = https://github.com/jacobleonard545/VU-classes
